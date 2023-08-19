@@ -12,7 +12,7 @@
      wget -O $ZSH_CUSTOM/themes/st-johns-arms.zsh-theme https://raw.githubusercontent.com/sageil/saint-johns-arms-zsh-theme/main/st-johns-arms.zsh-theme
   ```
 
-- using curl
+- Using curl
 
   ```sh
   curl -L -o $ZSH_CUSTOM/themes/st-johns-arms.zsh-theme https://raw.githubusercontent.com/sageil/saint-johns-arms-zsh-theme/main/st-johns-arms.zsh-theme
