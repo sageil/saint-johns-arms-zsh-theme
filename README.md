@@ -8,22 +8,21 @@
 
 - Using wget
 
-  ```sh
-     wget -O $ZSH_CUSTOM/themes/st-johns-arms.zsh-theme https://raw.githubusercontent.com/sageil/saint-johns-arms-zsh-theme/main/st-johns-arms.zsh-theme
-  ```
+```sh
+wget -O $ZSH_CUSTOM/themes/st-johns-arms.zsh-theme https://raw.githubusercontent.com/sageil/saint-johns-arms-zsh-theme/main/st-johns-arms.zsh-theme
+```
 
 - Using curl
 
-  ```sh
-  curl -L -o $ZSH_CUSTOM/themes/st-johns-arms.zsh-theme https://raw.githubusercontent.com/sageil/saint-johns-arms-zsh-theme/main/st-johns-arms.zsh-theme
-  ```
+```sh
+curl -L -o $ZSH_CUSTOM/themes/st-johns-arms.zsh-theme https://raw.githubusercontent.com/sageil/saint-johns-arms-zsh-theme/main/st-johns-arms.zsh-theme
+```
 
 - ```sh
-   vim ~/.zshrc
+  vim ~/.zshrc
   ```
-
 - Set `ZSH_THEME="st-johns-arms" in ~/.zshrc`
 
 - ```sh
-   source ~/.zshrc
+  source ~/.zshrc
   ```
