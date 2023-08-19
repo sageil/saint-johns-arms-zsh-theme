@@ -1,10 +1,8 @@
-### Saint John's Arms is a minimal oh-my-zsh theme for z shell.
+### Saint John's Arms is a minimalistic [oh-my-zsh](https://ohmyz.sh) theme for [z shell](https://www.zsh.org/).
 
 <p align="center">
   <img src="theme-capture.jpg" alt="term capture" width="75%">
 </p>
-
-Saint John's Arms is a minimalistic [oh-my-zsh](https://ohmyz.sh) theme for [z shell](https://www.zsh.org/).
 
 ### Installation
 
