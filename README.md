@@ -1,8 +1,10 @@
 ### Saint John's Arms is a minimalistic [oh-my-zsh](https://ohmyz.sh) theme for [z shell](https://www.zsh.org/).
 
-<p align="center">
-  <img src="theme-capture.jpg" alt="term capture" width="75%">
+<p style="display: block; margin-left: auto; margin-right: auto;">
+Wezterm using  Catppuccin Macchiato color scheme and Saint John's Arms zsh theme
 </p>
+<img style="display: block; margin-left: auto; margin-right: auto; width: 75%;" src="theme-capture.jpg" alt="Wezterm">
+</img>
 
 ### Installation
 
@@ -26,3 +28,12 @@ curl -L -o $ZSH_CUSTOM/themes/st-johns-arms.zsh-theme https://raw.githubusercont
 - ```sh
   source ~/.zshrc
   ```
+
+  ## Git Symbols
+
+- [✚] Repo has added files
+- [✹] Repo has modified files
+- [✖] Repo has deleted files
+- [➜] Repo has renamed files (using git mv)
+- [═] Repo has unmerged files
+- [✭] Repo has untracked files (before calling git add)
